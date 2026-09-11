@@ -1,1 +1,2 @@
-Welcome to my GitHub profile! Fix error!
+Welcome to my GitHub profile! Fixed error.
+
